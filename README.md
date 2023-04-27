@@ -2,11 +2,13 @@
 
 Welcome to our Frontend Coding Challenge.
 
-## Challenge
+Please read everything here before you start!
 
-We need a landing page for our last minute business in Greece in the summer.
+## The Challenge
 
-Unfortunately we have very little time to implement this. Our product stakeholders and UX/UI colleagues are all already on vacation or otherwise scheduled. So there is neither a design nor mockups available, nor have images been created or optimized.
+We need a landing page for a customer's last minute business in Greece in the summer.
+
+Unfortunately we have very little time (2-3 days) to implement this. Our product stakeholders and UX/UI colleagues are all already on vacation or otherwise scheduled. So there is neither a design nor mockups available, nor have images been created or optimized.
 
 So it's up to you to be creative and design and implement a landing page.
 
@@ -35,9 +37,13 @@ Further ideas or creative content is now completely up to you.
 
 ## Coding Requirements
 
-We don't want you to use any frameworks for JavaScript or CSS.
+We don't want you to use any frameworks for JavaScript (React, Vue, Svelte, Angular, ...) or CSS (Bootstrap, Tailwind,...).
 
 You should program in vanilla JavaScript and create your own stylings.
+
+But you are allow to use npm libraries like axios.
+
+You can take 2-3 days for the challenge, as defined in the description. Please do not take longer.
 
 ## How to start
 
@@ -58,3 +64,9 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Final Approvement
+
+After you've solved the challenge and are done, drop us a quick email and we'll take a look at your result.
+
+Afterwards we will arrange a meeting with you, where you will present your result and we will ask you questions about your code.
