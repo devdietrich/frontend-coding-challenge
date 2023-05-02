@@ -16,14 +16,17 @@ We were able to elicit some information from the product colleagues before they 
 
 And these are the following:
 
+Must have
 - Must be responsive from desktop to smartphone (smallest view 320px)
-- Accessible as far as possible
 - Should not show up in the index of search engines
 - Minimum 6 offer teasers with a picture, hotel name, location (country, region, city) and a price
 - Large Hero image at the top of the page with overlay text
+- Small contact form consisting of name, email (mandatory field) and a small note (mandatory field).
+
+Bonus Features
+- Accessible as far as possible
 - List of benefits of Greece
 - Map view with random markers from the region
-- Small contact form consisting of name, email (mandatory field) and a small note (mandatory field).
 - A small current weather view of the current weather situation
 
 Technical framework is as follows:
@@ -31,7 +34,7 @@ Technical framework is as follows:
 - For images please use Unsplash API <https://unsplash.com/developers> to generate images.
 - For map view please use OpenstreetMap <https://www.openstreetmap.org/>
 - For the weather view please use Weatherstack <https://weatherstack.com/>
-- Contact form does not need to have a send function. But a validate must be available.
+- Contact form does not need to have a send function. But a validation must be available.
 
 Further ideas or creative content is now completely up to you.
 
@@ -43,13 +46,15 @@ You should program in vanilla JavaScript and create your own stylings.
 
 But you are allow to use npm libraries like axios.
 
-You can take 2-3 days for the challenge, as defined in the description. Please do not take longer.
+You should take 2-3 days for the challenge, as defined in the description. Please do not take longer.
+
+When you don't finish all "must have" requirements, that's no problem for you and of course for us. You do not fail the test! Let's discuss later what blocked you to finish everything.
 
 ## How to start
 
 You please fork from our repository to your personal GitHub account. Your new repository should be set to public so that we can view it later.
 
-We are not only interested in the final result, but also in the steps you have taken. Please try to develop a plan for yourself and then implement it in small steps, each of which you commit.
+We are not only interested in the final result, but also in the steps you have taken. Please try to develop a plan for yourself and then implement it in small steps, each of which you commit to the repository with Git.
 
 ## How to use
 
@@ -67,6 +72,6 @@ npm run dev
 
 ## Final Approvement
 
-After you've solved the challenge and are done, drop us a quick email and we'll take a look at your result.
+After a maximum of 4 days after you receive the test from us, we will look at your code and contact you by mail.
 
-Afterwards we will arrange a meeting with you, where you will present your result and we will ask you questions about your code.
+We will then arrange an interview where you first present your solution and we will ask you questions about your code.
